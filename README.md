@@ -1,15 +1,6 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/1.gif" alt="GIF 1" width="200">
-      <p align="center"><strong>Existing Generalizable 3DGS</strong></p>
-    </td>
-    <td>
-      <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/2.gif" alt="GIF 2" width="200">
-      <p align="center"><strong>DGGS-TR</strong></p>
-    </td>
-  </tr>
-</table>
+# Distractor-free Generalizable 3D Gaussian Splatting
+
+## Results
 
 ### DGGS
 
@@ -66,6 +57,20 @@
     <td>
       <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/16.gif" alt="GIF 16" width="200">
       <p align="center"><strong>DGGS</strong></p>
+    </td>
+  </tr>
+</table>
+
+### DGGS-TR
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/1.gif" alt="GIF 1" width="200">
+      <p align="center"><strong>Existing Generalizable 3DGS</strong></p>
+    </td>
+    <td>
+      <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/2.gif" alt="GIF 2" width="200">
+      <p align="center"><strong>DGGS-TR</strong></p>
     </td>
   </tr>
 </table>
