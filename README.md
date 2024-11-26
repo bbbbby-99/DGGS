@@ -4,7 +4,7 @@
 
 ### DGGS
 
-<table>
+<table style="border-spacing: 20px 0;"> <!-- 增加列间距 -->
   <tr>
     <td>
       <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/3.gif" alt="GIF 3" width="200">
