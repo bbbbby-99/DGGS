@@ -3,7 +3,7 @@
 ### DGGS
 <table>
   <tr>
-    </td><video src="https://github.com/bbbbby-99/DGGS/tree/main/mp4/1.mp4"></td>
+    </td><video src="https://github.com/bbbbby-99/DGGS/bolb/main/mp4/1.mp4"></td>
     </td><video src="https://github.com/bbbbby-99/DGGS/tree/main/mp4/2.mp4" controls="controls" style="max-width: 730px;"></video></td>
   </tr>
   <tr>
