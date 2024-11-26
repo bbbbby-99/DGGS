@@ -43,19 +43,19 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/11.gif" alt="GIF 11" width="200">
-      <p align="center"><strong> Generalizable 3DGS</strong></p>
-    </td>
-    <td>
-      <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/12.gif" alt="GIF 12" width="200">
-      <p align="center"><strong>DGGS</strong></p>
-    </td>
-    <td>
       <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/15.gif" alt="GIF 15" width="200">
       <p align="center"><strong> Generalizable 3DGS</strong></p>
     </td>
     <td>
       <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/16.gif" alt="GIF 16" width="200">
+      <p align="center"><strong>DGGS</strong></p>
+    </td>
+    <td>
+      <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/11.gif" alt="GIF 11" width="200">
+      <p align="center"><strong> Generalizable 3DGS</strong></p>
+    </td>
+    <td>
+      <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/12.gif" alt="GIF 12" width="200">
       <p align="center"><strong>DGGS</strong></p>
     </td>
   </tr>
