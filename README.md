@@ -77,4 +77,4 @@
 
 ### Scene-agnostic Mask Prediction
 
-<img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/Mask.png" alt="Mask Image" width="800">
+<img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/Mask.png" alt="Mask Image" width="1000">
