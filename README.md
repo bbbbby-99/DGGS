@@ -54,6 +54,14 @@
       <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/2.gif" alt="GIF 2" width="200">
       <p align="center"><strong>DGGS-TR</strong></p>
     </td>
+        <td>
+      <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/19.gif" alt="GIF 19" width="200">
+      <p align="center"><strong> Generalizable 3DGS</strong></p>
+    </td>
+    <td>
+      <img src="https://github.com/bbbbby-99/DGGS/blob/main/gif/20.gif" alt="GIF 20" width="200">
+      <p align="center"><strong>DGGS-TR</strong></p>
+    </td>
   </tr>
 </table>
 
