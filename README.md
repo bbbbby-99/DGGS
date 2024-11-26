@@ -1,6 +1,6 @@
 # Distractor-free Generalizable 3D Gaussian Splatting
 
-## Results
+## Results (w/o Retrain)
 
 ### DGGS
 
