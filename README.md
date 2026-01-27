@@ -1,5 +1,11 @@
 # Distractor-free Generalizable 3D Gaussian Splatting
 
+## TODO List
+- [ ] Training Paradigm Code
+- [ ] Model
+- [ ] Inference Paradigm Code
+- [ ] Dataset
+
 ## Results (w/o Retrain)
 
 ### DGGS
